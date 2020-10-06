@@ -8,8 +8,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### 2. MovieList.js(목록보기, 삭제)
 
-![목록화면](image/이미지 002.png)
+![이미지 002](https://user-images.githubusercontent.com/71993926/95167830-4fa73800-07eb-11eb-83b9-5facff0021c7.png)
+
+
+
 
 ### 3. MovieDetail.js(상세보기, 수정)
 
-![상세보기화면](image/이미지 003.png)
+![이미지 003](https://user-images.githubusercontent.com/71993926/95167873-5afa6380-07eb-11eb-9f4b-4c36cbda583c.png)
