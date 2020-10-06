@@ -17,6 +17,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![이미지 003](https://user-images.githubusercontent.com/71993926/95167873-5afa6380-07eb-11eb-9f4b-4c36cbda583c.png)
 
-- ###설치파일
+- ### 설치파일
 npm install --save styled-components
 npm i react-router-dom
